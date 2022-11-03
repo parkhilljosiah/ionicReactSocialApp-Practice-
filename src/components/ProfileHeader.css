@@ -1,0 +1,31 @@
+.img {
+    border-radius: 50%;
+    height: 150px;
+}
+
+.name {
+    margin: 0px;
+}
+
+.title {
+    margin: 0px;
+    font-style: italic;
+}
+
+.namePlate {
+    padding-top: 50px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.link:hover {
+    color: #4267B2;
+    border-bottom-width: 2px;
+    border-bottom-style: solid
+}
